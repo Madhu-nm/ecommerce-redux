@@ -1,0 +1,15 @@
+.icon{
+    display: flex;
+column-gap: 20px;
+}
+.nav-link{
+    color:black;
+}
+.list{
+    margin-left: -15px;
+    font-size: large;
+}
+.top-banner{
+    background-color:black;
+   
+}
